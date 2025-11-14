@@ -28,8 +28,8 @@ register, and rent vehicles, while the admin can manage the entire workflow.
 
 ##  Technologies Used
 
-* Frontend: HTML5, CSS3, JavaScript (or React if used)
-* Backend: (PHP / Node.js / Python — write your actual backend technology)
+* Frontend: HTML5, CSS3, JavaScript
+* Backend: (PHP)
 * Database: MySQL
 * Other Tools: Git, GitHub
 
